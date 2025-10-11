@@ -3,9 +3,10 @@ In this study, we first determine that the trade-off between respiration and wat
 Afterwards, we identify genetic regulatory processes that act both drive the trade-off (Figure 3) and mitigate the trade-off (Figure 4).  
 
 ![Figure 1](https://raw.githubusercontent.com/braulioassis/Plethodon-tradeoff/main/figures/Figure1.png)  
-  
+Figure 1  
 ![Figure 2](figures/Figure2.png)  
-  
+Figure 2  
 ![Figure 3](figures/Figure3.png)  
-
+Figure 3  
 ![Figure 4](figures/Figure4.png)
+Figure 4
